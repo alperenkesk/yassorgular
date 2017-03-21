@@ -7,7 +7,7 @@ if yas < 35:
 print("Demek", yas , "yaşındasın.")
 print("Gençmişsin.")
 
-if yas > 36
+if yas > 36:
 
 print("Demek", yas , "yaşındasın.")
 print("Yaşlıymışsın.")
